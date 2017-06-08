@@ -1,0 +1,42 @@
+Package: dynens
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.2.3),
+    performanceEstimation (>= 1.0.2)
+Imports:
+    xts (>= 0.9-7),
+    RcppRoll,
+    methods,
+    forecast,
+    ranger,
+    rpart,
+    glmnet,
+    earth,
+    kernlab,
+    Cubist,
+    nnet,
+    gbm,
+    deepnet,
+    zoo,
+    caret,
+    moments,
+    nonlinearTseries,
+    Rwave,
+    tseries,
+    rugarch,
+    igraph,
+    softImpute
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
+RoxygenNote: 6.0.1

@@ -15,6 +15,4 @@ The package will be submitted to CRAN after extensive testing.
 * Platform: x86_64-pc-linux-gnu (64-bit)
 * Running under: Ubuntu 14.04.3 LTS
 
-## Contact
 
-Any bug report or suggesting please contact me at vmac@inesctec.pt
